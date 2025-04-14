@@ -1,0 +1,179 @@
+{
+  "main": {
+    "id": "55812435f7b4aa57",
+    "type": "split",
+    "children": [
+      {
+        "id": "f7ecc003e7cf7281",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "da098974137d72f7",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "734b2ac3fcb81063",
+    "type": "split",
+    "children": [
+      {
+        "id": "282db443d4b8735f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "31e6afe1b1dd5e4e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8cd194a72222e84f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "125bed7b94699146",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "38a04cf879daaf20",
+    "type": "split",
+    "children": [
+      {
+        "id": "93c0bc220b50bb7b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "57376e1a369bc226",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Classical Control Theory.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Classical Control Theory"
+            }
+          },
+          {
+            "id": "3c081163190a106f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Classical Control Theory.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Classical Control Theory"
+            }
+          },
+          {
+            "id": "91c81b3db8afc9f9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e013cfa1a9762967",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Classical Control Theory.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Classical Control Theory"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "31e6afe1b1dd5e4e",
+  "lastOpenFiles": [
+    "Control theory",
+    "Transient and Steady State analysis.md",
+    "Modern control theory.md",
+    "Modelling Systems.md",
+    "Introduction to MATLAB.md",
+    "Introduction to Control Theory.md",
+    "Control Theory.md",
+    "Classical Control Theory.md",
+    "Welcome.md"
+  ]
+}
